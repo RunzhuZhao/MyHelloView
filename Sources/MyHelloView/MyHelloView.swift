@@ -10,7 +10,7 @@ import SwiftUI
 @available(iOS 13.0, *)
 public struct MyHelloView: View {
     public var body: some View {
-        Text("Hello, 慕课网!")
+        Text("Hello, SwiftUI!")
     }
     public init() {
         
